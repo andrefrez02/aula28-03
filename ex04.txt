@@ -1,6 +1,3 @@
-from matplotlib.pyplot import close
-
-
 print(f'HOTEL CLEBAO\nTipos de diárias: \n"S" - Simples = R$255,50\n"D" - Duplo = R$305,50\n"T" - Triplo = R$360,50')
 tipo = str(input('Digite o tipo de hospedagem que o sr. deseja: ("S" ou "D" ou "T"): '))
 
